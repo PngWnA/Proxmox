@@ -1,0 +1,27 @@
+# Environment variables
+.env*
+
+# Backup
+*.backup
+
+# Certificate
+*.pem
+*.key
+*.crt
+
+# Log
+*.log
+
+# Backup
+*.bak
+
+# Temp
+*.tmp
+
+# WireGuard
+wg0.conf
+wg0.json
+
+# Service
+gitea
+postgres
